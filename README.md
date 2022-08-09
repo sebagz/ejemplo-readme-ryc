@@ -1,4 +1,4 @@
-# Editar Readme RYC
+# Editar Readme RYC (Título de la canción)
 
 ## Breve descripción del proyecto
 > ###### Actualizacion: 08/08/2022
@@ -9,7 +9,7 @@ La idea es escribir una descripción del proyecto la utilidad y varios temas ent
 Primero se debe incluir los framework y sus versiones como también versiones de base de datos o Front y Back.
 Luego se debe ir paso a paso de cómo se debe instalar y levantar la aplicación en un ambiente local como también mencionar, si es necesario, los procesos para instalar en ambientes QA o Prod.
 
-### Ejemplo
+> ### Ejemplo
 
 ### Framework y versiones
     NodeJS X.XX
@@ -28,7 +28,7 @@ Se debe ejucutar la siguiente linea para levantar
 
 *(los cambios iran de los más nuevos a los más viejos, siempre con su fecha, descripción de de la rama creada y cambio realizado)*
 
-### Ejemplo
+> ### Ejemplo
 
 > ###### Fecha del cambio: 08/08/2022
 - Rama: gt-ejemplo-sg
